@@ -1,0 +1,5 @@
+#Listar 3 ejemplos de software.
+
+1. Windows
+2. Paquete Adobe
+3. Office

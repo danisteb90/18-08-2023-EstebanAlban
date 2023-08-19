@@ -1,0 +1,36 @@
+#Comandos para el Checkpoint
+
+  312  mkdir 18-08-2023-EstebanAlban
+  313  cd 18-08-2023-EstebanAlban
+  314  git init
+  315  touch main.js index.html
+  316  git add .
+  317  git commit -m "commit 01 EstebanAlban"
+  318  git branch -M main
+  319  git remote add origin https://github.com/danisteb90/18-08-2023-EstebanAlban.git
+  320  git push -u origin main
+  321  git branch feature
+  322  git checkout feature
+  323  mkdir Hardware Software SeguridadInformatica
+  324  ls
+  325  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  326  ls
+  327  cd Hardware
+  328  ls
+  329  cd ..
+  330  git status
+  331  git add .
+  332  git commit -m "commit 02 EstebanAlban"
+  333  git push origin feature
+  334  git branch checkout main
+  335  git branch
+  336  git rm branch checkout
+  337  rm branch checkout
+  338  git branch -d checkout
+  339  git branch
+  340  git checkout main
+  341  mv main.js resumenHardware.txt
+  342  mv index.html resumenSoftware.txt
+  343  code .
+  344  touch comandos.txt
+  345  history > comandos.txt
